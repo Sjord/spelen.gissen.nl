@@ -62,6 +62,8 @@ SLUG_SUBSTITUTIONS = [
     ("Stelen", "stelen", False),
 ]
 
+STATIC_PATHS = ['images', 'static']
+EXTRA_PATH_METADATA = {'static/htaccess.txt': {'path': '.htaccess'}}
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

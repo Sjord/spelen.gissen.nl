@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Sjoerd Langkemper'
 SITENAME = u'Spelen'
+SITESUBTITLE = u'Buiten spelletjes doen met een groep kinderen'
 SITEURL = ''
 
 PATH = 'content'
@@ -30,6 +31,37 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = False
+
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
+TAG_URL = '{slug}/'
+TAG_SAVE_AS = '{slug}/index.html'
+
+CATEGORY_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+
+THEME = 'themes/spelen'
+
+TAG_SUBSTITUTIONS = [
+    ("Spelen", "spelen", False),
+    ("Avond en nacht", "avond", False),
+    ("Balspelen", "bal", False),
+    ("Behendigheid", "behendigheid", False),
+    ("Bosspelen", "bos", False),
+    ("Creativiteit", "creativiteit", False),
+    ("Denken", "denk", False),
+    ("Estafette", "estafette", False),
+    ("Improvisatie", "improvisatie", False),
+    ("Kringspelen", "kring", False),
+    ("Team en samenwerken", "team", False),
+    ("Reactie", "reactie", False),
+    ("Rennen en sporten", "ren", False),
+    ("Tikken", "tik", False),
+    ("Zoeken", "zoek", False),
+    ("Geheugen", "geheugen", False),
+    ("Stelen", "stelen", False),
+]
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

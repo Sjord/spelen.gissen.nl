@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #fafafa;
+}
+#banner, #banner a {
+    color: #fff;
+}
+#simage {
+    background-image: url("/theme/images/headerphoto.jpg");
+    height: 300px;
+    background-position: 75% 50%;
+    background-size: cover;
+    border-bottom: solid #65944A 1px;
+}
+#bannertext, #content, #contentinfo {
+    max-width: 40em;
+    margin: 0 auto;
+    overflow: auto;
+}
+#banner {
+    background-color: #292929;
+    border-bottom: solid #65944A 5px;
+}
+#content {
+    box-shadow: #ccc 0 10px 10px;
+    margin-bottom: 50px;
+    padding: 1em;
+    background: white;
+}
+h2 a, #bannertext a {
+    text-decoration: none;
+}
+#post-list article {
+    border-bottom: 1px solid #ccc;
+}
+#post-list article:last-child {
+    border-bottom: none;
+}
+a {
+    color: #65944A;
+}
+#bannertext #subtitle {
+    margin-bottom: 1em;
+}
+#bannertext h1 {
+    margin-bottom: 0.2em;
+}

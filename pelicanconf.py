@@ -42,7 +42,7 @@ AUTHOR_SAVE_AS = ''
 
 THEME = 'themes/spelen'
 
-TAG_SUBSTITUTIONS = [
+SLUG_SUBSTITUTIONS = [
     ("Spelen", "spelen", False),
     ("Avond en nacht", "avond", False),
     ("Balspelen", "bal", False),

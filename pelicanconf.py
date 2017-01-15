@@ -67,6 +67,7 @@ SLUG_SUBSTITUTIONS = [
 
 STATIC_PATHS = ['images', 'static']
 EXTRA_PATH_METADATA = {'static/htaccess.txt': {'path': '.htaccess'}}
+EXTRA_PATH_METADATA = {'static/favicon.ico': {'path': 'favicon.ico'}}
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

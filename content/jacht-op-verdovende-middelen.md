@@ -26,10 +26,10 @@ De handelaren proberen zoveel mogelijk "spul" via de grens over te brengen naar 
 
 
 
-Wanneer een handelaar "gepakt" wordt, krijgt hij een procesverbaal. Hiervoor zet de douane een handtekening in het paspoort. Driemaal zo een procesverbaal betekent dat de speler uit het spel is.
+Wanneer een handelaar "gepakt" wordt, krijgt hij een proces-verbaal Hiervoor zet de douane een handtekening in het paspoort. Driemaal zo een proces-verbaal betekent dat de speler uit het spel is.
 
 De opsporingsbrigade, jaagt alleen op de verdovende middelen en fouilleert daarom iedere handelaar die ze te pakken kunnen krijgen.
 
-Als een douanier of een opsporingsambtenaar een handelaar dichter dan twee meter nadert, roept hij/zij "halt douane opsporingsambtenaar" en moet de handelaar blijven staan voor een fouillering of een procesverbaal.
+Als een douanier of een opsporingsambtenaar een handelaar dichter dan twee meter nadert, roept hij/zij "halt douane opsporingsambtenaar" en moet de handelaar blijven staan voor een fouillering of een proces-verbaal
 Als een handelaar "spul" beeft bezorgd, dan moet bij "leeg" weer via de grens naar het depot terug. Nu moet hij ook weer oppassen, want al heeft hij geen spul, hij kan wel door de douane gepakt warden.
 Nog spannender kan het worden door met de handelaren tactische afspraken te maken. Bijvoorbeeld door in groepjes te laten werken. Een aantal hebben "spul" bij zich, andere niet. De handelaren zijn dan stromannen, die de weg vrij moeten maken voor de echte handelaren.

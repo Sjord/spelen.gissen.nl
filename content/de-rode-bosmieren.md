@@ -17,7 +17,7 @@ Het mierenvolk bestaat uit 2/3 van het aantal deelnemers. Het is samengesteld ui
 
 * één koningin
 * de bewakers (1/3 van het mierenvolk), die het mierenzuur vervoeren en de miereneters voor 5 minuten onschadelijk kunnen maken.
-* de werkmieren (1/3 van het mierenvolk), die de dennenaalden en de eitjes overbrengen naar het nieuwe nest en die door de miereneters van hun vracht beroofd kunnen worden.
+* de werkmieren (1/3 van het mierenvolk), die de dennennaalden en de eitjes overbrengen naar het nieuwe nest en die door de miereneters van hun vracht beroofd kunnen worden.
 
 
 

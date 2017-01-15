@@ -1,4 +1,4 @@
-Title: De balonnenboom
+Title: De ballonnenboom
 Date: 2017-01-13 19:21:37.704208
 Category: Stelen
 Tags: Bosspelen, Tikken, Stelen
@@ -10,4 +10,4 @@ Na een bepaalde tijd worden de rollen omgedraaid.
 De ballonnendieven zijn herkenbaar aan een levensdraad om de arm. De bewakers hebben dat niet.
 Is iemand zijn levensdraad kwijt dan moet hij een nieuwe halen. Is het gelukt een ballon te stelen, dan kan hij tot aan de muur nog door de bewakers aangevallen worden; de bewakers proberen de ballon met de hand kapot te maken.
 
-Buiten de muur zijn de ballonnendieven vrij. Hele balonnen leveren meer punten op dat kapotte balonnen.
+Buiten de muur zijn de ballonnendieven vrij. Hele ballonnen leveren meer punten op dat kapotte ballonnen.

@@ -21,7 +21,7 @@ De spelers zitten in een halve cirkel. Iedereen heeft een naam van een bootwerke
 * Bootsmaat
 * Timmerman
 * Timmermansmaat
-* Electricien
+* Elektricien
 * Olieman
 * Tremmer
 * Magazijnmeester

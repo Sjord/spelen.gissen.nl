@@ -5,4 +5,4 @@ Tags: Rennen en sporten
 
 Spelers gaan achter elkaar in een kring staan. Iedere speler kijkt dus tegen de rug van zijn voorganger aan. Afstand tussen elkaar is circa een meter. De spelers nemen de bokhouding in op twee na. Deze twee gaan een bokspringrace aan, zorg voor een gelijk aantal bokken tussen deze twee spelers. Op teken starten ze wie haalt wie in??
 
-Spel is uit te breiden, afhankelijk van de grootte van de groep, door met meerdere bokspingers te werken.
+Spel is uit te breiden, afhankelijk van de grootte van de groep, door met meerdere bokspringers te werken.
